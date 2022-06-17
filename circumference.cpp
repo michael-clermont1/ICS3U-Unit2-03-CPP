@@ -5,7 +5,6 @@
 // This program calculates the circumference of a circle
 //    with radius inputted by the user and tau
 
-#include <cmath>
 #include <iostream>
 
 int main() {
